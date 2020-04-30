@@ -1,6 +1,6 @@
 {
    "name": "@bemoje/arr-has",
-   "version": "1.0.0",
+   "version": "1.0.1",
    "description": "Returns true if the element exists in the array",
    "main": "dist/arr-has.umd.js",
    "module": "dist/arr-has.esm.js",
@@ -50,7 +50,7 @@
    },
    "devDependencies": {
       "babel-core": "^6.26.3",
-      "babel-jest": "^25.4.0",
+      "babel-jest": "^25.5.1",
       "babel-preset-env": "^1.7.0",
       "documentation": "^12.3.0",
       "esm": "^3.2.25",
